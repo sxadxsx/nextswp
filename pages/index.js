@@ -50,11 +50,7 @@ function Home() {
           href="https://brixtemplates.com/"
           className="header-logo-link---brix w-nav-brand"
         >
-          <img
-            src="images/62ccd1d28b3c0f4a9a2a262c_logo2.png"
-            width={182}
-            alt=""
-            className="header-logo---brix"
+          
           />
         </a>
         <div className="header-right-side">
@@ -82,11 +78,7 @@ function Home() {
                 >
                   <div className="dropdown-toggle---brix w-dropdown-toggle">
                     <div>體育</div>
-                    <img
-                      src="images/62ccd191dc4db463c355862e_arrow-black-brix-templates.svg"
-                      loading="eager"
-                      alt=""
-                      className="dropdown-arrow"
+                   
                     />
                   </div>
                   <nav
@@ -125,13 +117,7 @@ function Home() {
                 >
                   <div className="dropdown-toggle---brix w-dropdown-toggle">
                     <div>條款</div>
-                    <img
-                      src="images/62ccd191dc4db463c355862e_arrow-black-brix-templates.svg"
-                      loading="eager"
-                      alt=""
-                      className="dropdown-arrow"
-                    />
-                  </div>
+                   
                   <nav
                     style={{
                       display: "none",
@@ -178,14 +164,7 @@ function Home() {
                 >
                   <div className="dropdown-toggle---brix w-dropdown-toggle">
                     <div>支援</div>
-                    <img
-                      src="images/62ccd191dc4db463c355862e_arrow-black-brix-templates.svg"
-                      loading="eager"
-                      alt=""
-                      className="dropdown-arrow"
-                    />
-                    <div className="container w-container" />
-                  </div>
+                   
                   <nav
                     data-w-id="9f71bc46-0ae4-7b31-8b4f-0daa10348d39"
                     className="dropdown-column-wrapper w-dropdown-list"
@@ -223,13 +202,7 @@ function Home() {
                 >
                   <div className="dropdown-toggle---brix w-dropdown-toggle">
                     <div>其他</div>
-                    <img
-                      src="images/62ccd191dc4db463c355862e_arrow-black-brix-templates.svg"
-                      loading="eager"
-                      alt=""
-                      className="dropdown-arrow"
-                    />
-                  </div>
+                    
                   <nav
                     data-w-id="9f71bc46-0ae4-7b31-8b4f-0daa10348d47"
                     className="dropdown-column-wrapper w-dropdown-list"
@@ -355,20 +328,7 @@ function Home() {
           </h1>
         </div>
       </div>
-      <img
-        src="images/62ccdc58fa8b20b2ed0e222b_undraw_basketball_agx4.svg"
-        loading="lazy"
-        width={363}
-        alt=""
-        className="image-3"
-      />
-    </div>
-    <img
-      src="images/62ccdc58fa8b209f5b0e222a_Blob.svg"
-      alt=""
-      className="blob-hero"
-    />
-  </div>
+
   <div className="home-benefits_component">
     <div className="wf-section" />
     <div className="home-benefits_wrapper margin-top">
@@ -388,29 +348,6 @@ function Home() {
         }}
         className="home-benefits_product-images"
       >
-        <img
-          src="images/62cb8242aeebe95b16676acc_three-lines.svg"
-          loading="lazy"
-          width={48}
-          alt=""
-          className="decoration-benefits_lines-on-right"
-        />
-        <img
-          src="images/62cb8242aeebe93ac9676acb_decorative-spring.svg"
-          loading="lazy"
-          width="37.5"
-          alt=""
-          className="decoration-benefits_squiggle"
-        />
-        <img
-          src="images/62ccdc58fa8b20b2ed0e222b_undraw_basketball_agx4.svg"
-          loading="lazy"
-          height={200}
-          width={543}
-          alt=""
-          className="decoration-benefits-blue-box"
-        />
-      </div>
       <div
         id="w-node-_81eff2c6-e246-c2e5-a590-53ad215309ef-f20e1f77"
         className="home-benefits_content"
@@ -469,29 +406,7 @@ function Home() {
         }}
         className="home-benefits_product-images"
       >
-        <img
-          src="images/62cb8242aeebe95b16676acc_three-lines.svg"
-          loading="lazy"
-          width={48}
-          alt=""
-          className="decoration-benefits_lines-on-right"
-        />
-        <img
-          src="images/62cb8242aeebe93ac9676acb_decorative-spring.svg"
-          loading="lazy"
-          width="37.5"
-          alt=""
-          className="decoration-benefits_squiggle"
-        />
-        <img
-          src="images/62cb82b0aeebe91706677479_undraw_home_run_oerh.svg"
-          loading="lazy"
-          height={200}
-          width={543}
-          alt=""
-          className="decoration-benefits-blue-box"
-        />
-      </div>
+       
       <div
         id="w-node-_81eff2c6-e246-c2e5-a590-53ad215309fb-f20e1f77"
         className="home-benefits_content"
@@ -551,28 +466,7 @@ function Home() {
       }}
       className="home-benefits_product-images"
     >
-      <img
-        src="images/62cb8242aeebe95b16676acc_three-lines.svg"
-        loading="lazy"
-        width={48}
-        alt=""
-        className="decoration-benefits_lines-on-right"
-      />
-      <img
-        src="images/62cb8242aeebe93ac9676acb_decorative-spring.svg"
-        loading="lazy"
-        width="37.5"
-        alt=""
-        className="decoration-benefits_squiggle"
-      />
-      <img
-        src="images/62cb833761280918cadeb1ed_wiki.svg"
-        loading="lazy"
-        height={200}
-        width={543}
-        alt=""
-        className="decoration-benefits-blue-box"
-      />
+      
     </div>
     <div
       id="w-node-_4f3cd9f7-07e4-b049-0f6d-d6f4982c7133-f20e1f77"
@@ -624,12 +518,7 @@ function Home() {
             href="https://brixtemplates.com/"
             className="footer-logo-wrapper w-inline-block"
           >
-            <img
-              src="images/62c7818f2052c83f3a5d171b_logo2.png"
-              width={206}
-              alt=""
-              className="footer-logo---brix"
-            />
+           
           </a>
           <p className="mg-bottom-40px">
             <strong>
@@ -723,34 +612,7 @@ function Home() {
                 href="mailto:contact@company.com"
                 className="link-wrapper color-grey w-inline-block"
               >
-                <img
-                  src="images/62ccdc7a08cab0e2f102b08f_placeholder-icon-contact-mail.svg"
-                  loading="eager"
-                  alt=""
-                  className="icon-left---brix"
-                />
-                <div className="link-text">support@ssport.eu.org</div>
-              </a>
-            </li>
-            <li className="footer-list-item">
-              <a
-                href="tel:(414)687-5892"
-                className="link-wrapper color-grey w-inline-block"
-              >
-                <img
-                  src="images/62ccdc7a08cab0325902b090_placeholder-icon-contact-phone.svg"
-                  loading="eager"
-                  alt=""
-                  className="icon-left---brix"
-                />
-                <div className="link-text">0979500472</div>
-              </a>
-            </li>
-            <li className="footer-list-item" />
-          </ul>
-        </div>
-      </div>
-    </div>
+              
     <div className="footer-bottom">
       <div className="w-layout-grid grid-footer-v1---2-columns grid-center bottom">
         <div id="w-node-c6c79779-10de-7c33-7615-d2332f5e1637-f20e1f77">
