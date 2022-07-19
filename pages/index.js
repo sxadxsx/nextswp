@@ -30,8 +30,7 @@ function Home() {
           <link rel="stylesheet" href="css/magnific-popup.css" />
           <link rel="stylesheet" href="css/flaticon.css" />
           <link rel="stylesheet" href="css/style.css" />
-          <script src="https://ssw-clnaia3mo-ssangyongsports.vercel.app/js/webflow.61a301920.js" type="text/javascript"></script>
-
+          <script src="https://ssw-clnaia3mo-ssangyongsports.vercel.app/js/webflow.61a301920.js" async />
       </Head>
       <>
   <div
