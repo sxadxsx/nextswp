@@ -3,8 +3,10 @@ import Link from 'next/link'
 import Image from 'next/image'
 import Head from 'next/head'
 import Script from 'next/script'
+const newLocal_1 = "images/62cb8242aeebe93ac9676acb_decorative-spring.svg"
+const newLocal_5 = newLocal_1
 function Home() {
-  const newLocal_4 = "images/62cb8242aeebe93ac9676acb_decorative-spring.svg"
+  const newLocal_4 = newLocal_5
   const newLocal = newLocal_4
   const newLocal_1 = "images/62ccd1d28b3c0f4a9a2a262c_logo2.png"
   const newLocal_2 = "images/62cb8242aeebe93ac9676acb_decorative-spring.svg"
@@ -62,13 +64,11 @@ function Home() {
           >
             <ul role="list" className="header-nav-menu-list---brix">
               <li className="header-nav-list-item---brix">
-                <a
-                  href="/"
-                  aria-current="page"
-                  className="header-nav-link---brix w-nav-link w--current"
-                >
-                  首頁
-                </a>
+              <div>
+      <Link href="/">
+        <a>首頁</a>
+      </Link>
+    </div>
               </li>
               <li className="header-nav-list-item---brix" />
               <li className="header-nav-list-item---brix">
@@ -106,9 +106,11 @@ function Home() {
                         >
                           雙龍職棒
                         </a>
-                        <a href="/?1" className="dropdown-link w-dropdown-link">
-                          雙龍足球
-                        </a>
+                        <div>
+      <Link href="/about">
+        <a>About Us</a>
+      </Link>
+    </div>
                       </div>
                     </div>
                   </nav>
