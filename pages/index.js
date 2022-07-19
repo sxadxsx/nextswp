@@ -4,6 +4,11 @@ import Image from 'next/image'
 import Head from 'next/head'
 import Script from 'next/script'
 function Home() {
+  const newLocal_4 = "images/62cb8242aeebe93ac9676acb_decorative-spring.svg"
+  const newLocal = newLocal_4
+  const newLocal_1 = "images/62ccd1d28b3c0f4a9a2a262c_logo2.png"
+  const newLocal_2 = "images/62cb8242aeebe93ac9676acb_decorative-spring.svg"
+  const newLocal_3 = "images/62cb8242aeebe93ac9676acb_decorative-spring.svg"
   return (
     <><Head>
           <title>Clyde - Free Bootstrap 4 Template by Colorlib</title>
@@ -44,7 +49,7 @@ function Home() {
           className="header-logo-link---brix w-nav-brand"
         >
           <img
-            src="images/62ccd1d28b3c0f4a9a2a262c_logo2.png"
+            src={newLocal_1}
             width={182}
             alt=""
             className="header-logo---brix"
@@ -382,21 +387,21 @@ function Home() {
         className="home-benefits_product-images"
       >
         <img
-          src="https://uploads-ssl.webflow.com/62cb8215c50496b5c1c78d9d/62cb8242aeebe95b16676acc_three-lines.svg"
+          src="images/62cb8242aeebe95b16676acc_three-lines.svg"
           loading="lazy"
           width={48}
           alt=""
           className="decoration-benefits_lines-on-right"
         />
         <img
-          src="images/62cb8242aeebe93ac9676acb_decorative-spring.svg"
+          src={newLocal}
           loading="lazy"
           width="37.5"
           alt=""
           className="decoration-benefits_squiggle"
         />
         <img
-          src="https://uploads-ssl.webflow.com/62ccdc35fa8b20bd790e1f76/62d564d63ad8091173ac02fc_taxi-basketball%20(2).png"
+          src="images/62d564d63ad8091173ac02fc_taxi-basketball%20%282%29.png"
           loading="lazy"
           height={200}
           width={456}
@@ -470,7 +475,7 @@ function Home() {
           className="decoration-benefits_lines-on-right"
         />
         <img
-          src="images/62cb8242aeebe93ac9676acb_decorative-spring.svg"
+          src={newLocal_2}
           loading="lazy"
           width="37.5"
           alt=""
@@ -554,7 +559,7 @@ function Home() {
         className="decoration-benefits_lines-on-right"
       />
       <img
-        src="images/62cb8242aeebe93ac9676acb_decorative-spring.svg"
+        src={newLocal_3}
         loading="lazy"
         width="37.5"
         alt=""
@@ -610,7 +615,49 @@ function Home() {
       </p>
     </div>
   </div>
-  <div className="wf-section" />
+  <div className="wf-section">
+    <div className="content-section">
+      <div className="container-2">
+        <div
+          data-w-id="9e2b1679-2854-f29d-a308-df2284f6f6cc"
+          style={{
+            WebkitTransform:
+              "translate3d(0, 55PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
+            MozTransform:
+              "translate3d(0, 55PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
+            msTransform:
+              "translate3d(0, 55PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
+            transform:
+              "translate3d(0, 55PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
+            opacity: 0
+          }}
+          className="title-wrap"
+        >
+          <div className="title-tag">
+            <div>
+              試用3天不滿意退款
+              <br />
+            </div>
+          </div>
+          <h2 className="content-h2">
+            想要在家看球賽?
+            <br />
+          </h2>
+          <a
+            href="https://webflow.grsm.io/flowbase?content=Free-Cloneable-Course-Template"
+            className="button button-space w-button"
+          >
+            加入會員
+          </a>
+        </div>
+      </div>
+      <img
+        src="images/62d61739ca416985cfeddb7b_Side%20Pattern%20Right.svg"
+        alt=""
+        className="side-pattern-right"
+      />
+    </div>
+  </div>
   <div className="container-default-3 w-container">
     <div className="footer-top">
       <div className="w-layout-grid grid-footer-v1---5-column">
@@ -633,6 +680,7 @@ function Home() {
             srcSet="images/62d5057ecc6dd8c592c6d3c0_logo2-p-500.png 500w, images/62d5057ecc6dd8c592c6d3c0_logo2.png 902w"
             sizes="173px"
             alt=""
+            className="image-4"
           />
           <p className="mg-bottom-40px">
             <strong className="bold-text-11">
@@ -761,6 +809,18 @@ function Home() {
             Copyright © 2022 雙龍體育 All Rights Reserved{" "}
           </p>
         </div>
+        <p
+          id="w-node-_81ba31c6-2c1f-00dc-4306-efcc0c0c1cc2-f20e1f77"
+          className="paragraph"
+        >
+          <a href="/p/privacypolicy_18.html" className="link">
+            隱私政策
+          </a>
+          /
+          <a href="/p/blog-page_78.html" className="link-2">
+            服務條款
+          </a>
+        </p>
       </div>
     </div>
   </div>
