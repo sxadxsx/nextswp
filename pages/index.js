@@ -828,6 +828,7 @@ function Home() {
   </div>
   {/*[if lte IE 9]><![endif]*/}
     <Script src="js/main.js"></Script>
+    <Script src="js/jquery.min.js"></Script>
 </>
 
           </>   
