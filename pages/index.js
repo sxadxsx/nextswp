@@ -95,7 +95,7 @@ function Home() {
                       <div className="w-layout-grid grid-1-column dropdown-link-column">
                         <a
                           href="https://www.sbatw.ml/"
-                          target="_blank"
+                          rel="noreferrer"
                           className="dropdown-link w-dropdown-link"
                         >
                           雙龍職籃
@@ -194,7 +194,7 @@ function Home() {
                       <div className="w-layout-grid grid-1-column dropdown-link-column">
                         <a
                           href="https://help.ssangyongsports.eu.org/"
-                          target="_blank"
+                          rel="noreferrer"
                           className="dropdown-link w-dropdown-link"
                         >
                           幫助中心
@@ -238,7 +238,7 @@ function Home() {
                       <div className="w-layout-grid grid-1-column dropdown-link-column">
                         <a
                           href="https://blog.ssangyongsports.eu.org/"
-                          target="_blank"
+                          rel="noreferrer"
                           className="dropdown-link w-dropdown-link"
                         >
                           blog
